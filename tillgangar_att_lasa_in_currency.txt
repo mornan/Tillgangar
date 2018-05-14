@@ -1,0 +1,5 @@
+namn antal wkn
+bitcoin 2.23392 BTC
+bitcoingold 0.6944 BTG
+ether 9.5232 ETH
+sek 130000 SEK
